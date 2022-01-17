@@ -9,7 +9,7 @@ class Translation(object):
 
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
-For More Details Click Help Button Below..
+©️Team Malayalam Movie Factory™️..
 @MMF_chat
 </i>"""    
     
