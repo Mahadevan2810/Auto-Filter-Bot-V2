@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/LXRBOTSGROUP"
+                                    'Join Group', url="https://t.me/Mmf_chat"
                                 )
                         ]
                     ]
@@ -47,7 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developer', url='https://t.me/manglasseryy_neelakandan'),
+        InlineKeyboardButton('Join Channel', url='https://t.me/tamil_rockers_mallu'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Iamnoob2255/Auto-Filter-Bot-V2')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/mmf_chat')
