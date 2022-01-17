@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/LXRBOTSGROUP'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/LXR-YOUTUBER-AMAL/Auto-Filter-Bot-V2')
+        InlineKeyboardButton('Developer', url='https://t.me/manglasseryy_neelakandan'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Iamnoob2255/Auto-Filter-Bot-V2')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/LXRBOTSGROUP')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/mmf_chat')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
