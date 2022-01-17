@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Join Channel', url='https://t.me/tamil_rockers_mallu'),
+        InlineKeyboardButton('❤️Join Channel❤️', url='https://t.me/tamil_rockers_mallu'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Iamnoob2255/Auto-Filter-Bot-V2')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/mmf_chat')
+        InlineKeyboardButton('❤️Support 🛠', url='https://t.me/mmf_chat')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
