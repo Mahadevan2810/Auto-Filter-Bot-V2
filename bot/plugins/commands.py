@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Join Group', url="https://t.me/Mmf_chat"
+                                    '❤️Join Channel❤️', url="https://t.me/tamil_rockers_mallu"
                                 )
                         ]
                     ]
