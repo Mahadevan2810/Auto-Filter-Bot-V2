@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '❤️Join Channel❤️', url="https://t.me/tamil_rockers_mallu"
+                                    '❤️Join Main Channel❤️', url="https://t.me/tamil_rockers_mallu"
                                 )
                         ]
                     ]
