@@ -43,12 +43,12 @@ Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥�
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@Manglasserryy_neelakandan
+@Mangalasseryy_neelakandan
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/@manglasseryy_neelakandan">manglasseryy_neelakandan</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Mangalasseryy_neelakandan">manglasseryy_neelakandan</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
