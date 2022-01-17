@@ -1608,7 +1608,7 @@ async def cb_about(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "My Dev ⚡", url="https://t.me/malayalammoviesmmms"
+                    "My Dev ⚡", url="https://t.me/Mangalasseryy_neelakandan"
                 ),
                 
             InlineKeyboardButton
@@ -1639,10 +1639,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/malayalammoviesmmms'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/LXR-YOUTUBER-AMAL/Auto-Filter-Bot-V2')
+            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/Mangalasseryy_neelakandan'),
+            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Iamnoob2255/Auto-Filter-Bot-V2')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/LXRBOTSGROUP')
+            InlineKeyboardButton('Support 🛠', url='https://t.me/mmf_chat')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
