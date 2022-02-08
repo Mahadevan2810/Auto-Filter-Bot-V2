@@ -4,11 +4,11 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A MMF Advance Auto Filter Bot....😉
-
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
+    START_TEXT = """<b>ഹായ് {}!!</b>
+എന്റെ പേര് 𝑳𝒖𝒄𝒊𝒇𝒆𝒓.
+ഞാൻ മൂവി ഫാക്ടറിയുടെ ഗ്രൂപ്പ്  മാനേജർ ആണ്.
+നിങ്ങൾ നമ്മുടെ ഗ്രൂപ്പിൽ ജോയിൻ ചെയ്‍തതിനു ശേഷം മൂവി download ചെയ്ത് ആസ്വദിക്കുന്നെ ❤️
+അപ്പോ എങ്ങനാ പൊളിക്കുവല്ലേ 😉
 ©️Team Malayalam Movie Factory™️..
 @MMF_chat
 </i>"""    
@@ -43,7 +43,7 @@ Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥�
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@Mangalasseryy_neelakandan
+@MMFDARK
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Lucifer</code>
