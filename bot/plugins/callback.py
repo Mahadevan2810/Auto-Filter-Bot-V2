@@ -142,7 +142,7 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<i>Check Links @malayalammoviesmms Found</i> <code>{leng}</code> <i>Results For Your Query:</i> <code>{query}</code>"
+    text=f"<i>Check Links @tamil_rockers_mallu Found</i> <code>{leng}</code> <i>Results For Your Query:</i> <code>{query}</code>"
         
     try:
         await update.message.edit(
@@ -1640,7 +1640,7 @@ async def callback_data(bot, update: CallbackQuery):
     if query_data == "start":
         buttons = [[
             InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/Mangalasseryy_neelakandan'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Iamnoob2255/Auto-Filter-Bot-V2')
+            InlineKeyboardButton('Source Code 🧾', url ='https://t.me/tamil_rockers_mallu')
         ],[
             InlineKeyboardButton('Support 🛠', url='https://t.me/mmf_chat')
         ],[
