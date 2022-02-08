@@ -46,7 +46,7 @@ Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥�
 @Mangalasseryy_neelakandan
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> </code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> Lucifer</code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/MMFDARK">MMF_DARK</a></i></b>
 
